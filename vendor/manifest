@@ -1,0 +1,19 @@
+{
+	"version": 0,
+	"dependencies": [
+		{
+			"importpath": "github.com/extrame/ole2",
+			"repository": "https://github.com/extrame/ole2",
+			"revision": "ca55123c127c4c923d22e73ffe7670f417040ded",
+			"branch": "master",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/extrame/xls",
+			"repository": "https://github.com/extrame/xls",
+			"revision": "990d2cc41fb04282ce6f14b546219cfe3d119ccc",
+			"branch": "master",
+			"notests": true
+		}
+	]
+}
